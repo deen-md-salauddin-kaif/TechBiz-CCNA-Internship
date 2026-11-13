@@ -1,146 +1,85 @@
-# CCNA Networking Labs & Projects
+# Tech Biz – CCNA Networking Internship
 
-Welcome to my **CCNA Networking Labs & Projects** repository!
+## About This Repository
 
-This repository documents my learning journey in computer networking through practical labs, hands-on exercises, network configurations, subnetting, and troubleshooting activities.
+This repository contains my practical assignments, networking labs, technical reports, and documentation completed during my **CCNA Networking Internship at Tech Biz**.
 
-I am developing my networking skills through Cisco-related learning materials and practical exercises using Cisco Packet Tracer, Windows, Linux, and other networking tools.
+The purpose of this repository is to document my practical experience, demonstrate my understanding of networking concepts, and maintain a record of the tasks completed during my internship.
 
-## Learning Objectives
+## Internship Information
 
-- Understand fundamental networking concepts.
-- Develop practical Cisco networking skills.
-- Configure routers and switches.
-- Understand IPv4 and IPv6 addressing.
-- Practice subnetting and VLSM.
-- Understand routing and switching.
-- Learn network troubleshooting techniques.
-- Explore basic network security concepts.
-- Gain hands-on experience with network simulation tools.
+- **Organization:** Tech Biz
+- **Internship:** CCNA Networking
+- **Focus Area:** Computer Networking
+- **Tools:** Cisco Packet Tracer, Cisco IOS CLI, Windows Command Prompt
 
-## Tools & Technologies
+## Internship Tasks
 
-- Cisco Packet Tracer
-- Windows / Linux
-- Git & GitHub
-- Command Line Interface (CLI)
-- IPv4 and IPv6
-- Networking Protocols and Utilities
+### Week 01
 
-## Topics Covered
+#### Task 01 – Basic Network Topology and Static Routing
 
-- Networking Fundamentals
-- OSI and TCP/IP Models
-- Ethernet and MAC Addressing
-- IPv4 and IPv6 Addressing
-- Binary Number Conversion
-- Subnetting and VLSM
-- ARP, DHCP and DNS
-- Routing and Switching
-- Static Routing
-- Network Troubleshooting
-- Basic Network Security
-
----
-
-## Practical Labs & Projects
-
-### Week 01 – Build Your CCNA Lab
-
-**Task 01: Build Your CCNA Lab + How Networks Actually Work**
-
-**Lab Components:**
-- 2 Routers
-- 2 Switches
-- 4 PCs
-
-**Practical Activities:**
+Topics covered:
 - Network topology design
-- IP address configuration
-- Default gateway configuration
+- Router and switch configuration
+- IPv4 address assignment
 - Static routing
-- Connectivity testing using Ping
-- Routing table verification
-- Understanding packet forwarding
+- Connectivity testing using ping
+- Basic network troubleshooting
 
-**Project Files:** `Week-01/Task-01-Network-Lab/`
+#### Task 02 – IPv4 Addressing and Subnetting
 
----
-
-### Week 01 – IPv4 Addressing and Subnetting
-
-**Task 02: IPv4 Addressing, Binary Conversion & VLSM Subnetting**
-
-**Practical Activities:**
-- Decimal to binary conversion
-- Binary to decimal conversion
-- Understanding IPv4 addresses and subnet masks
-- Identifying network and broadcast addresses
-- Calculating usable host ranges
-- Performing manual subnetting
-- Dividing a /24 network into multiple subnets using VLSM
-- Re-addressing the previous network topology
-- Configuring router interfaces with appropriate subnet masks
-- Verifying connectivity using Ping
-- Troubleshooting subnet overlap errors
-
-**VLSM Network:** `192.168.10.0/24`
-
-**Subnets Created:**
-- 192.168.10.0/26 – 50 Hosts
-- 192.168.10.64/27 – 25 Hosts
-- 192.168.10.96/28 – 12 Hosts
-- 192.168.10.112/30 – 2 Hosts
-- 192.168.10.116/30 – 2 Hosts
-
-**Project Files:** `Week-01/Task-02-IPv4-Addressing-and-Subnetting/`
-
----
+Topics covered:
+- Decimal-to-binary conversion
+- Binary-to-decimal conversion
+- IPv4 address structure
+- Subnet masks
+- Network and broadcast addresses
+- VLSM subnetting
+- IP addressing plan
+- Router reconfiguration
+- Connectivity verification and troubleshooting
 
 ## Repository Structure
 
 ```text
-CCNA-Networking-Labs/
+TechBiz-CCNA-Internship/
 │
 ├── README.md
 │
 ├── Week-01/
 │   │
-│   ├── Task-01-Network-Lab/
-│   │   ├── Packet-Tracer/
+│   ├── Task-01-Basic-Network-Topology/
+│   │   ├── Report/
 │   │   ├── Screenshots/
-│   │   └── Report/
+│   │   └── Packet-Tracer/
 │   │
 │   └── Task-02-IPv4-Addressing-and-Subnetting/
-│       ├── Packet-Tracer/
+│       ├── Report/
 │       ├── Screenshots/
-│       └── Report/
+│       └── Packet-Tracer/
 │
 ├── Week-02/
+│   └── ...
 │
-├── Networking-Basics/
-│
-├── Routing-and-Switching/
-│
-├── Network-Security/
-│
-└── Troubleshooting/
+└── Additional-Tasks/
+    └── ...
 ```
 
-## Learning Progress
+## Skills Practiced
 
-| Week | Task | Topic | Status |
-|---|---|---|---|
-| Week 01 | Task 01 | Network Lab & Static Routing | Completed |
-| Week 01 | Task 02 | IPv4 Addressing & VLSM Subnetting | Completed |
+- Networking Fundamentals
+- LAN and WAN
+- IPv4 Addressing
+- Binary Conversion
+- Subnetting and VLSM
+- Router Configuration
+- Static Routing
+- Network Troubleshooting
+- Cisco Packet Tracer
 
-## About This Repository
+## Purpose
 
-This repository is part of my continuous learning journey in networking and cybersecurity.
+This repository serves as a record of my learning, practical assignments, and technical progress throughout my CCNA Networking Internship at Tech Biz.
 
-My goal is to strengthen my theoretical knowledge through practical implementation, document my learning progress, and develop real-world networking and troubleshooting skills.
-
-More labs, configurations, and projects will be added as I progress through my CCNA learning journey.
-
-
-
+I will continue updating this repository as I complete additional internship tasks and gain more hands-on networking experience.
