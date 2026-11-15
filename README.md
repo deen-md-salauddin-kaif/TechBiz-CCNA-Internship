@@ -2,16 +2,29 @@
 
 ## About This Repository
 
-This repository contains my practical assignments, networking labs, technical reports, and documentation completed during my **CCNA Networking Internship at Tech Biz**.
+This repository contains my practical assignments, networking labs, technical reports, screenshots, and documentation completed during my **CCNA Networking Internship at Tech Biz**.
 
-The purpose of this repository is to document my practical experience, demonstrate my understanding of networking concepts, and maintain a record of the tasks completed during my internship.
+The purpose of this repository is to document my practical experience, demonstrate my understanding of networking concepts, and maintain a record of my learning progress throughout the internship.
 
 ## Internship Information
 
 - **Organization:** Tech Biz
 - **Internship:** CCNA Networking
 - **Focus Area:** Computer Networking
-- **Tools:** Cisco Packet Tracer, Cisco IOS CLI, Windows Command Prompt
+- **Tools:** Cisco Packet Tracer, Cisco IOS CLI, Windows Command Prompt, Git and GitHub
+
+## Learning Objectives
+
+- Understand OSI and TCP/IP Models
+- Learn Ethernet and MAC Addressing
+- Practice IPv4 and IPv6 Addressing
+- Understand Subnetting and VLSM
+- Study ARP, DHCP, and DNS
+- Learn Switching and VLANs
+- Understand Routing Concepts
+- Configure Cisco Routers and Switches
+- Perform Network Troubleshooting
+- Learn basic Cisco IOS security and configuration recovery
 
 ## Internship Tasks
 
@@ -19,7 +32,7 @@ The purpose of this repository is to document my practical experience, demonstra
 
 #### Task 01 – Basic Network Topology and Static Routing
 
-Topics covered:
+**Topics Covered:**
 - Network topology design
 - Router and switch configuration
 - IPv4 address assignment
@@ -29,16 +42,28 @@ Topics covered:
 
 #### Task 02 – IPv4 Addressing and Subnetting
 
-Topics covered:
+**Topics Covered:**
 - Decimal-to-binary conversion
 - Binary-to-decimal conversion
 - IPv4 address structure
 - Subnet masks
 - Network and broadcast addresses
 - VLSM subnetting
-- IP addressing plan
+- IP addressing plans
 - Router reconfiguration
 - Connectivity verification and troubleshooting
+
+#### Task 03 – IOS Commands and Password Recovery
+
+**Topics Covered:**
+- User EXEC and Privileged EXEC modes
+- Global Configuration mode
+- Router and switch interface configuration
+- Basic device identity and security configuration
+- SSH configuration and verification
+- Cisco IOS show commands
+- Saving and verifying configurations
+- Router password recovery using the configuration register
 
 ## Repository Structure
 
@@ -47,39 +72,54 @@ TechBiz-CCNA-Internship/
 │
 ├── README.md
 │
-├── Week-01/
-│   │
-│   ├── Task-01-Basic-Network-Topology/
+├── week-01/
+│   ├── Task-01-Network-Lab/
+│   │   ├── Packet-Tracer/
 │   │   ├── Report/
-│   │   ├── Screenshots/
-│   │   └── Packet-Tracer/
+│   │   └── Screenshots/
 │   │
-│   └── Task-02-IPv4-Addressing-and-Subnetting/
-│       ├── Report/
-│       ├── Screenshots/
-│       └── Packet-Tracer/
+│   ├── Task2-IPv4_Addressing_and_Subnetting/
+│   │   ├── Packet-Tracer/
+│   │   ├── Report/
+│   │   └── Screenshots/
+│   │
+│   └── Task-03-Basic_Commands_and_pasword_recovery/
+│       ├── Packet-tracer/
+│       └── screenshots/
 │
-├── Week-02/
-│   └── ...
-│
-└── Additional-Tasks/
-    └── ...
+└── ...
 ```
+
+## Tools and Technologies
+
+- Cisco Packet Tracer
+- Cisco IOS Command Line Interface (CLI)
+- Windows Command Prompt
+- PowerShell
+- Git and GitHub
+- Wireshark (for networking practice)
 
 ## Skills Practiced
 
 - Networking Fundamentals
 - LAN and WAN
+- OSI and TCP/IP Models
+- Ethernet and MAC Addressing
 - IPv4 Addressing
 - Binary Conversion
 - Subnetting and VLSM
-- Router Configuration
+- Router and Switch Configuration
 - Static Routing
+- SSH Configuration
 - Network Troubleshooting
-- Cisco Packet Tracer
+- Basic Cisco IOS Security
 
 ## Purpose
 
-This repository serves as a record of my learning, practical assignments, and technical progress throughout my CCNA Networking Internship at Tech Biz.
+This repository serves as a record of my internship assignments, practical networking experience, and technical progress.
 
-I will continue updating this repository as I complete additional internship tasks and gain more hands-on networking experience.
+I will continue updating it as I complete additional tasks and gain more hands-on experience in computer networking and cybersecurity.
+
+---
+
+**Note:** This repository is maintained for educational and practical learning purposes as part of my CCNA Networking Internship at Tech Biz.
